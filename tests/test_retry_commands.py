@@ -1,5 +1,4 @@
-from utils.retry_commands import retry_function
-from utils.retry_commands import retry_shell
+from modules.utils.retry_commands import retry_function, retry_shell
 
 
 class TestCommands:
@@ -24,6 +23,6 @@ class TestCommands:
         assert output == "Success on attempt: 3"
 
     def test_retry_shell_command(self):
-        output = retry_shell(command="ls")
+        output = retry_shell(command="ls tests/")
 
         assert "test_retry_commands.py" in output

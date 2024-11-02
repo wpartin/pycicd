@@ -1,0 +1,14 @@
+﻿version
+=======
+
+.. automodule:: version
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   interface
+   semantic

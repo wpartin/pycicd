@@ -1,4 +1,4 @@
-from version.semantic import SemanticVersion
+from modules.version.semantic.impl import SemanticVersion
 
 
 class TestSemanticVersion:

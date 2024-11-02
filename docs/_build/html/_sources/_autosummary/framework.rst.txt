@@ -1,0 +1,14 @@
+﻿framework
+=========
+
+.. automodule:: framework
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   interface
+   tox

@@ -1,0 +1,13 @@
+version.semantic
+================
+
+.. automodule:: version.semantic
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   impl

@@ -1,0 +1,14 @@
+﻿parser
+======
+
+.. automodule:: parser
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   args
+   interface

@@ -1,0 +1,12 @@
+environment.virtual.impl
+========================
+
+.. automodule:: environment.virtual.impl
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      Virtual
+   

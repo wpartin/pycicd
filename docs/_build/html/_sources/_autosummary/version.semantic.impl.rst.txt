@@ -1,0 +1,12 @@
+version.semantic.impl
+=====================
+
+.. automodule:: version.semantic.impl
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      SemanticVersion
+   

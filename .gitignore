@@ -1,7 +1,17 @@
 pycicd.**
 
-venv/**
+.venv/**
 
 source/**
 
 .idea/**
+/.idea/
+/.pkg/
+/.pycicd/
+/.tmp/
+/.tox/
+/.venv/
+/default/
+/dist/
+/py/
+/pycicd.egg-info/
